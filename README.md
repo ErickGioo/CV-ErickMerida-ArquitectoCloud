@@ -20,12 +20,12 @@ Profesional de Tecnologías de la Información con experiencia en infraestructur
 
 ## 🛠️ Habilidades Técnicas
 
-- **Cloud:** AWS, Azure  
+- **Cloud:** AWS, Azure, Nubes Privadas
 - **Sistemas Operativos:** Linux (Ubuntu, CentOS), Windows Server  
 - **Virtualización:** VMware  
 - **Seguridad:** Fortinet, Security Hub, cumplimiento (HIPAA, buenas prácticas)  
-- **DevOps / Herramientas:** Git, GitHub, monitoreo, backup    
-- **Otros:** Networking, monitoreo on-premise, integración de APIs
+- **DevOps / Herramientas:** Git, GitHub, monitoreo, CI/CD   
+- **Otros:** Networking, monitoreo on-premise, Yenkings
 
 ---
 
